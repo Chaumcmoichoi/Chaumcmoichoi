@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">🦾 Nguyen Bao Quynh | Gundam Coder</h1>
+<p align="center">
+  <em>“Built like a Gundam. Precise. Adaptive. Relentless.”</em>
+</p>
 
-<!--
-**Chaumcmoichoi/Chaumcmoichoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚔️ About Me
+I'm a developer who sees coding as piloting a Gundam — blending logic, creativity, and precision.  
+Always upgrading, always learning new systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 Passion: Robotics • AI • Web Engineering • System Automation  
+- 🧠 Mindset: “Debug like a mechanic, code like a pilot.”  
+- 🚀 Goal: Build digital mechs that make life simpler and smarter  
+
+---
+
+### 🧰 Skill Arsenal
+
+| Category | Technologies |
+|-----------|---------------|
+| **Languages** | Python • C++ • JavaScript • TypeScript • HTML • CSS |
+| **Frameworks** | React • Node.js • Flask • Express |
+| **Dev Tools** | Git • Linux • VSCode • Docker |
+| **Specialties** | AI/ML • Web Dev • Automation • Data Handling |
+
+---
+
+### ⚙️ System Status
+```text
+🧠 Neural Sync: Stable  
+⚡ Energy Core: 98%  
+🛰️ Mission: Code • Create • Upgrade
